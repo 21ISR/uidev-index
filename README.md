@@ -18,10 +18,14 @@
 
 ### 2. Основы HTML верстки
 
+- [HTMLAcademy (все 5 модулей)](https://htmlacademy.ru/courses/299)
+
+- [Лабораторная работа №1](https://github.com/21isr/uidev-lab1)
+
 ⬇ Мы здесь
 
-- [HTMLAcademy](https://htmlacademy.ru/courses/299)
-
+- [HTML Academy Recap (только модуль с HTML](https://htmlacademy.ru/courses/297)
+ 
 ## Как выполнять задания
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:
