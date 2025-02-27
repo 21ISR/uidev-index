@@ -10,7 +10,7 @@
 
 ## Roadmap
 
-Все, что находится выше `Мы здесь` должно быть у вас для успешного получения зачета
+Все, что находится выше `Мы здесь` должно быть у вас для успешного прохождения дисциплины
 
 ### 1. Git
 
@@ -25,6 +25,10 @@
 ⬇ Мы здесь
 
 - [HTML Academy Recap (только модуль с HTML](https://htmlacademy.ru/courses/297)
+
+- [Лабораторная работа №3](https://github.com/21isr/uidev-lab3)
+
+- [Лабораторная работа №3](https://github.com/21isr/uidev-lab3)
  
 ## Как выполнять задания
 
@@ -84,4 +88,5 @@ _Обратите внимание, что это делается в **ваше
 
 ## Полезное
 
+- [MDN](https://developer.mozilla.org/ru/docs/Web/)
 - [Git шпаргалка](https://github.com/cyberspacedk/Git-commands)
