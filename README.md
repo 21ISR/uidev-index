@@ -26,7 +26,9 @@
 
 - [HTML Academy Recap (только модуль с HTML](https://htmlacademy.ru/courses/297)
 
-- [Лабораторная работа №3](https://github.com/21isr/uidev-lab3)
+- [Лабораторная работа №2](https://github.com/21isr/uidev-lab2)
+
+- [CSS Diner (CSS селекторы)](https://flukeout.github.io/)
 
 - [Лабораторная работа №3](https://github.com/21isr/uidev-lab3)
  
