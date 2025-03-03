@@ -31,7 +31,11 @@
 - [CSS Diner (CSS селекторы)](https://flukeout.github.io/)
 
 - [Лабораторная работа №3](https://github.com/21isr/uidev-lab3)
- 
+
+### 3. Основы CSS
+
+- [Flexbox Froggy](https://flexboxfroggy.com)
+
 ## Как выполнять задания
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:
