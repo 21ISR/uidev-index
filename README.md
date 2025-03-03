@@ -2,7 +2,7 @@
 
 ## Содержание
 
-1. [Лидерборд](./leaderboard.ods)
+1. [Лидерборд](https://docs.google.com/spreadsheets/d/12AMe72B-rCRVmvi8imSFIQohUloxABgn/edit?gid=1920332676#gid=1920332676)
 1. [Roadmap](#roadmap)
 1. [Как выполнять задания](#как-выполнять-задания)
 1. [Документация](#документация)
