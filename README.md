@@ -22,8 +22,6 @@
 
 - [Лабораторная работа №1](https://github.com/21isr/uidev-lab1)
 
-⬇ Мы здесь
-
 - [HTML Academy Recap (только модуль с HTML](https://htmlacademy.ru/courses/297)
 
 - [Лабораторная работа №2](https://github.com/21isr/uidev-lab2)
@@ -34,7 +32,19 @@
 
 ### 3. Основы CSS
 
+#### Flexbox
+
 - [Flexbox Froggy](https://flexboxfroggy.com)
+
+⬇ Мы здесь
+
+- [Лабораторная работа №4](https://github.com/21isr/uidev-lab4)
+
+#### Grid
+
+- [Grid Garden](https://cssgridgarden.com/#ru)
+
+- [Лабораторная работа №5](https://github.com/21isr/uidev-lab5)
 
 ## Как выполнять задания
 
