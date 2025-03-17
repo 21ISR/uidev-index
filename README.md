@@ -36,15 +36,17 @@
 
 - [Flexbox Froggy](https://flexboxfroggy.com)
 
-⬇ Мы здесь
-
 - [Лабораторная работа №4](https://github.com/21isr/uidev-lab4)
 
 #### Grid
 
 - [Grid Garden](https://cssgridgarden.com/#ru)
 
+⬇ Мы здесь
+
 - [Лабораторная работа №5](https://github.com/21isr/uidev-lab5)
+
+- [Лабораторная работа №6](https://github.com/21isr/uidev-lab6)
 
 ## Как выполнять задания
 
