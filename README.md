@@ -42,13 +42,21 @@
 
 - [Grid Garden](https://cssgridgarden.com/#ru)
 
-⬇ Мы здесь
-
 - [Лабораторная работа №5](https://github.com/21isr/uidev-lab5)
 
 - [Лабораторная работа №6](https://github.com/21isr/uidev-lab6)
 
 - [Лабораторная работа №7](https://github.com/21isr/uidev-lab7)
+
+- [Лабораторная работа №8](https://github.com/21isr/uidev-lab8)
+
+- [Лабораторная работа №9](https://github.com/21isr/uidev-lab9)
+
+⬇ Мы здесь
+
+- [Лабораторная работа №10](https://github.com/21isr/uidev-lab10)
+
+- [Лабораторная работа №11](https://github.com/21isr/uidev-lab11)
 
 ## Как выполнять задания
 
