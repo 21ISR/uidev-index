@@ -52,11 +52,19 @@
 
 - [Лабораторная работа №9](https://github.com/21isr/uidev-lab9)
 
-⬇ Мы здесь
-
 - [Лабораторная работа №10](https://github.com/21isr/uidev-lab10)
 
 - [Лабораторная работа №11](https://github.com/21isr/uidev-lab11)
+
+- [Лабораторная работа №12](https://github.com/21isr/uidev-lab12)
+
+#### Адаптивность
+
+⬇ Мы здесь
+
+- [Лабораторная работа №13](https://github.com/21isr/uidev-lab13)
+
+- [Лабораторная работа №14](https://github.com/21isr/uidev-lab14)
 
 ## Как выполнять задания
 
