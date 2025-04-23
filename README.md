@@ -20,15 +20,15 @@
 
 - [HTMLAcademy (все 5 модулей)](https://htmlacademy.ru/courses/299)
 
-- [Лабораторная работа №1](https://github.com/21isr/uidev-lab1)
+- [Лабораторная работа №1](https://github.com/31isr/uidev-lab1)
 
 - [HTML Academy Recap (только модуль с HTML](https://htmlacademy.ru/courses/297)
 
-- [Лабораторная работа №2](https://github.com/21isr/uidev-lab2)
+- [Лабораторная работа №2](https://github.com/31isr/uidev-lab2)
 
 - [CSS Diner (CSS селекторы)](https://flukeout.github.io/)
 
-- [Лабораторная работа №3](https://github.com/21isr/uidev-lab3)
+- [Лабораторная работа №3](https://github.com/31isr/uidev-lab3)
 
 ### 3. Основы CSS
 
@@ -36,35 +36,47 @@
 
 - [Flexbox Froggy](https://flexboxfroggy.com)
 
-- [Лабораторная работа №4](https://github.com/21isr/uidev-lab4)
+- [Лабораторная работа №4](https://github.com/31isr/uidev-lab4)
 
 #### Grid
 
 - [Grid Garden](https://cssgridgarden.com/#ru)
 
-- [Лабораторная работа №5](https://github.com/21isr/uidev-lab5)
+- [Лабораторная работа №5](https://github.com/31isr/uidev-lab5)
 
-- [Лабораторная работа №6](https://github.com/21isr/uidev-lab6)
+- [Лабораторная работа №6](https://github.com/31isr/uidev-lab6)
 
-- [Лабораторная работа №7](https://github.com/21isr/uidev-lab7)
+- [Лабораторная работа №7](https://github.com/31isr/uidev-lab7)
 
-- [Лабораторная работа №8](https://github.com/21isr/uidev-lab8)
+- [Лабораторная работа №8](https://github.com/31isr/uidev-lab8)
 
-- [Лабораторная работа №9](https://github.com/21isr/uidev-lab9)
+- [Лабораторная работа №9](https://github.com/31isr/uidev-lab9)
 
-- [Лабораторная работа №10](https://github.com/21isr/uidev-lab10)
+- [Лабораторная работа №10](https://github.com/31isr/uidev-lab10)
 
-- [Лабораторная работа №11](https://github.com/21isr/uidev-lab11)
+- [Лабораторная работа №11](https://github.com/31isr/uidev-lab11)
 
-- [Лабораторная работа №12](https://github.com/21isr/uidev-lab12)
+- [Лабораторная работа №12](https://github.com/31isr/uidev-lab12)
 
 #### Адаптивность
 
 ⬇ Мы здесь
 
-- [Лабораторная работа №13](https://github.com/21isr/uidev-lab13)
+- [Лабораторная работа №13](https://github.com/31isr/uidev-lab13)
 
-- [Лабораторная работа №14](https://github.com/21isr/uidev-lab14)
+- [Лабораторная работа №14](https://github.com/31isr/uidev-lab14)
+
+#### JavaScript
+
+- [Лабораторная работа №15](https://github.com/31isr/uidev-lab15)
+
+- [Лабораторная работа №16](https://github.com/31isr/uidev-lab16)
+
+- [Лабораторная работа №17](https://github.com/31isr/uidev-lab17)
+
+- [Лабораторная работа №18](https://github.com/31isr/uidev-lab18)
+
+- [Лабораторная работа №19](https://github.com/31isr/uidev-lab19)
 
 ## Как выполнять задания
 
@@ -72,7 +84,7 @@
 
 ### Как начать выполнять
 
-1. Создайте fork репозитория в организации [21ISR](https://github.com/21ISR) под названием `uidev-lab{N}-{фамилия}`
+1. Создайте fork репозитория в организации [31isr](https://github.com/31isr) под названием `uidev-lab{N}-{фамилия}`
     - `N` - номер лабораторной работы
 
 2. Переключитель на ветку `dev` (левый-верхний угол)
