@@ -2,7 +2,7 @@
 
 ## Содержание
 
-1. [Лидерборд](https://docs.google.com/spreadsheets/d/1M-I0suwDAB-sjGJGteHfa0wlMtnl1hFJ/edit?usp=sharing&ouid=114980174016056670914&rtpof=true&sd=true)
+1. [Лидерборд](https://docs.google.com/spreadsheets/d/1QlNnNLg2CPhlmlyUgOBSfg_bartMvMlxeVB-7SPv8zw/edit?usp=sharing)
 1. [Roadmap](#roadmap)
 1. [Как выполнять задания](#как-выполнять-задания)
 1. [Документация](#документация)
@@ -60,8 +60,6 @@
 
 #### Адаптивность
 
-⬇ Мы здесь
-
 - [Лабораторная работа №13](https://github.com/31isr/uidev-lab13)
 
 - [Лабораторная работа №14](https://github.com/31isr/uidev-lab14)
@@ -77,6 +75,24 @@
 - [Лабораторная работа №18](https://github.com/31isr/uidev-lab18)
 
 - [Лабораторная работа №19](https://github.com/31isr/uidev-lab19)
+
+#### Библиотеки
+
+##### SCSS
+
+- [Лабораторная работа №20](https://github.com/31isr/uidev-lab20)
+
+#### NPM
+
+- [Лекция](https://ktkv-presentations.github.io/webdev-2)
+
+- [Лабораторная работа №21](https://github.com/31isr/uidev-lab21)
+
+#### Bootstrap
+
+- [Лекция](https://ktkv-presentations.github.io/uidev-15)
+
+- [Лабораторная работа №22](https://github.com/31isr/uidev-lab22)
 
 ## Как выполнять задания
 
