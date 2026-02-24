@@ -22,7 +22,11 @@
 
 ### Лабораторные
 
-...
+#### Введение в HTML
+
+[HTML Academy #1](https://htmlacademy.ru/courses/297/)
+
+[HTML Academy #2](https://htmlacademy.ru/courses/299)
 
 ## Как выполнять задания
 
