@@ -19,6 +19,9 @@
 - [CSS - Каскадные таблицы стилей](https://ktkv-presentations.github.io/uidev-5/)
 - [Текст и все с ним связанное](https://ktkv-presentations.github.io/uidev-6/)
 - [Блочная модель CSS](https://ktkv-presentations.github.io/uidev-7/)
+- [Макеты](https://ktkv-presentations.github.io/uidev-8/)
+- [Адаптивный дизайн](https://ktkv-presentations.github.io/uidev-9/)
+- [Формы](https://ktkv-presentations.github.io/uidev-10/)
 
 ### Лабораторные
 
@@ -27,6 +30,14 @@
 [HTML Academy #1](https://htmlacademy.ru/courses/297/)
 
 [HTML Academy #2](https://htmlacademy.ru/courses/299)
+
+#### Git
+
+[Лабораторная по Git](https://github.com/21isr/uidev-git-lab)
+
+#### HTML
+
+[Лабораторная по HTML](https://github.com/21isr/uidev-html-lab)
 
 ## Как выполнять задания
 
