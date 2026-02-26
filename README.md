@@ -22,6 +22,7 @@
 - [Макеты](https://ktkv-presentations.github.io/uidev-8/)
 - [Адаптивный дизайн](https://ktkv-presentations.github.io/uidev-9/)
 - [Формы](https://ktkv-presentations.github.io/uidev-10/)
+- [Лекция Git](http://ktkv-presentations.github.io/algos-8)
 
 ### Лабораторные
 
