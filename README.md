@@ -46,6 +46,12 @@
 
 [Лабораторная по селекторам](https://github.com/21isr/uidev-selectors-lab)
 
+#### Flexbox
+
+[Тренажер по Flexbox](https://flexboxfroggy.com/)
+
+[Лабораторная по Flexbox](https://github.com/21isr/uidev-flex-lab)
+
 ## Как выполнять задания
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:
