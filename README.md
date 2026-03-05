@@ -54,6 +54,14 @@ _Если не открывается, то эта [ссылка](https://olso.f
 
 [Лабораторная по Flexbox](https://github.com/21isr/uidev-flex-lab)
 
+#### Grid
+
+- [Тренажер по Grid](https://cssgridgarden.com/#ru)
+
+_Если не открывается, то эта [ссылка](https://appbrewery.github.io/gridgarden/)_
+
+- [Лабораторная по Grid](https://github.com/21isr/uidev-grid-lab)
+
 ## Как выполнять задания
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:
