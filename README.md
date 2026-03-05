@@ -50,6 +50,8 @@
 
 [Тренажер по Flexbox](https://flexboxfroggy.com/)
 
+_Если не открывается, то эта [ссылка](https://olso.folk.ntnu.no/flexboxfroggy/)_
+
 [Лабораторная по Flexbox](https://github.com/21isr/uidev-flex-lab)
 
 ## Как выполнять задания
