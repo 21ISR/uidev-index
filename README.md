@@ -62,6 +62,9 @@ _Если не открывается, то эта [ссылка](https://appbre
 
 - [Лабораторная по Grid](https://github.com/21isr/uidev-grid-lab)
 
+> [!CAUTION]
+> Все работы выше должны быть сданы до 15.03.2026
+
 - [Лабораторная по Flex + Grid](https://github.com/21isr/uidev-flex-grid-lab)
 
 #### Различные свойства
