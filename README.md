@@ -1,4 +1,5 @@
 # Разработка пользовательских интерфейсов
+https://docs.google.com/presentation/d/1piJLUKzU_KpG6HuJzXC4uZzxaNPNbTaeujY6_v9SVy4/edit?usp=sharing
 
 ## Содержание
 
