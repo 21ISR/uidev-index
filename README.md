@@ -73,6 +73,7 @@ _Если не открывается, то эта [ссылка](https://appbre
 - [Лабораторная по странице блога](https://github.com/21ISR/uidev-blog-lab)
 - [Лабораторная по псевдоклассам](https://github.com/21ISR/uidev-pseudoclasses-lab)
 - [Лабораторная по position: absolute](https://github.com/21ISR/uidev-absolute-lab)
+- [Лабораторная по формам](https://github.com/21ISR/uidev-form-lab)
 
 ## Как выполнять задания
 
