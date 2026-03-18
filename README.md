@@ -72,6 +72,8 @@ _Если не открывается, то эта [ссылка](https://appbre
 
 - [Лабораторная по тексту](https://github.com/21isr/uidev-text-lab)
 - [Лабораторная по странице блога](https://github.com/21ISR/uidev-blog-lab)
+- [Лабораторная по псевдоклассам](https://github.com/21ISR/uidev-pseudoclasses-lab)
+- [Лабораторная по position: absolute](https://github.com/21ISR/uidev-absolute-lab)
 
 ## Как выполнять задания
 
