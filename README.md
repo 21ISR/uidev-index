@@ -12,6 +12,8 @@
 
 ### Лекции
 
+- [Лекция Git](http://ktkv-presentations.github.io/algos-8)
+
 - [Web-приложения и web-протоколы](https://ktkv-presentations.github.io/uidev-1/)
 - [Разработка структуры Web-узла](https://ktkv-presentations.github.io/uidev-2/)
 - [HTML](https://ktkv-presentations.github.io/uidev-3/)
@@ -22,7 +24,13 @@
 - [Макеты](https://ktkv-presentations.github.io/uidev-8/)
 - [Адаптивный дизайн](https://ktkv-presentations.github.io/uidev-9/)
 - [Формы](https://ktkv-presentations.github.io/uidev-10/)
-- [Лекция Git](http://ktkv-presentations.github.io/algos-8)
+- [JavaScript](https://ktkv-presentations.github.io/uidev-11/)
+- [Спецификации и стандарты](https://ktkv-presentations.github.io/uidev-12/)
+- [Модули в JS](https://ktkv-presentations.github.io/uidev-13/)
+- [Fetch](https://ktkv-presentations.github.io/uidev-14/)
+- [Bootstrap](https://ktkv-presentations.github.io/uidev-15/)
+- [Архитектура проекта](https://ktkv-presentations.github.io/uidev-16/)
+
 
 ### Лабораторные
 
