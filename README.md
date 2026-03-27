@@ -75,6 +75,8 @@ _Если не открывается, то эта [ссылка](https://appbre
 - [Лабораторная по position: absolute](https://github.com/21ISR/uidev-absolute-lab)
 - [Лабораторная по формам](https://github.com/21ISR/uidev-form-lab)
 
+- [Лабораторная по адаптивной верстке](https://github.com/21ISR/uidev-adaptive-lab)
+
 ## Как выполнять задания
 
 В каждом репозитории описано как выполнять задание. В случае, если не указано, то работать по следующему принципу:
