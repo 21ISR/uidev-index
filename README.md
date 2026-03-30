@@ -81,11 +81,11 @@ _Если не открывается, то эта [ссылка](https://appbre
 - [Лабораторная по странице блога](https://github.com/21ISR/uidev-blog-lab)
 - [Лабораторная по псевдоклассам](https://github.com/21ISR/uidev-pseudoclasses-lab)
 - [Лабораторная по position: absolute](https://github.com/21ISR/uidev-absolute-lab)
-- [Лабораторная по формам](https://github.com/21ISR/uidev-form-lab)
-
+  
 > [!CAUTION]
 > Все работы выше должны быть сданы до 30.03.2026
 
+- [Лабораторная по формам](https://github.com/21ISR/uidev-form-lab)
 - [Лабораторная по адаптивной верстке](https://github.com/21ISR/uidev-adaptive-lab)
 - [Лабораторная по BEM и CSS переменным](https://github.com/21ISR/uidev-bem-lab)
 
