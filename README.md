@@ -88,6 +88,7 @@ _Если не открывается, то эта [ссылка](https://appbre
 - [Лабораторная по формам](https://github.com/21ISR/uidev-form-lab)
 - [Лабораторная по адаптивной верстке](https://github.com/21ISR/uidev-adaptive-lab)
 - [Лабораторная по BEM и CSS переменным](https://github.com/21ISR/uidev-bem-lab)
+- [Лабораторная - лендинг](https://github.com/21ISR/uidev-landing-lab)
 
 ## Как выполнять задания
 
